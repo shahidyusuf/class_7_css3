@@ -1,4 +1,4 @@
-div {
+/* div {
     height: 300px;
     width: 300px;
     background-color: #bbbbaa;
@@ -6,4 +6,34 @@ div {
     p {
     height: 75%;
     width: 75%;
-    background-color: #0088dd;}
+    background-color: #0088dd;} */
+/* .box {
+    background-color: yellow;
+    font-style: oblique bold;
+     /* border-bottom: 5px #0f0 solid; */
+    /* border-bottom-color: #00f; */
+     /* border-right: 5px red solid ; */
+/* } */ 
+/* 
+.box-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box-2 {
+    width: 100px;
+    height: 100px;
+    background-color: red; */
+/* } */
+
+.box {
+    border: 1px solid #000;
+}
+
+.parents {
+    border: 1px solid #000;
+}
+.child {
+    border: 1px sold #000;
+    width: 100px;
+}
